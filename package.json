@@ -1,0 +1,30 @@
+{
+  "name": "up-tech-mada",
+  "version": "1.0.0",
+  "description": "up tech mada web site",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Odon/pageweb-utm.git"
+  },
+  "keywords": [
+    "up",
+    "tech",
+    "mada"
+  ],
+  "author": "up tech mada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/Odon/pageweb-utm/issues"
+  },
+  "homepage": "https://gitlab.com/Odon/pageweb-utm#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
